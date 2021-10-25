@@ -1,0 +1,4 @@
+# Put your custom commands here that should be executed once
+# the system init finished. By default this file does nothing.
+usbmode -v -s -c /etc/mdm9200.json
+exit 0
