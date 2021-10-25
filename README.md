@@ -9,6 +9,6 @@ Scipt that allow you to connect Qualcomm MDM9200 Based 3G/LTE USB Modem to your 
 * Kernel   : 4.4.140
 
 ### USB Modem
-Model : Advance BT-100
+Model : Advance DT-100
 
 ## Installation
